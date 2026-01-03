@@ -1,0 +1,5 @@
+{
+  "name": "CycloneAnalytics",
+  "description": "A scientific dashboard visualizing tropical cyclone patterns in the Indian Ocean and their impact on Sri Lanka.",
+  "requestFramePermissions": []
+}
