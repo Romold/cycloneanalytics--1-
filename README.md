@@ -47,7 +47,6 @@ For this project:
 - Period: 2015–2024
 - Scope: Cyclones relevant to Sri Lanka’s regional exposure
 
-:contentReference[oaicite:0]{index=0}
 
 ---
 
